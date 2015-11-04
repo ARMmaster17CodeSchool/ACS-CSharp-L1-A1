@@ -1,10 +1,13 @@
 namespace System;
 
-class Program
+namespace ACSL1
 {
-    public static void main()
+    class A1
     {
-        Console.WriteLine("Hello World!");
-        Console.ReadKey();
+        public static void main()
+        {
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
+        }
     }
 }
